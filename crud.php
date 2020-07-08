@@ -1,13 +1,7 @@
 <?php
-
     //php code goes here
 
-
-
 ?>
-
-
-
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -107,30 +101,5 @@
         <input type="submit" name="submit" value="Submit">
     </form>
     
-
-
-
-
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
